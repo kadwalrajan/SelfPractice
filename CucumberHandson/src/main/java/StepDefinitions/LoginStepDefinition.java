@@ -17,6 +17,7 @@ public class LoginStepDefinition {
 	public void user_what_is_the_capital_of_Canada_in_the_search_page(){
 		System.out.println("Scenario2 Given");
 		System.out.println("My new name");
+		System.out.println("My new name");
 	}
 
 	@Then("^user clicks on the search button$")
